@@ -17,11 +17,11 @@
  along with github.  If not, see <https://www.gnu.org/licenses/>.
 -->
 
-# The Innovate for Vegas Foundation NonProfit Corporation Organization
+# Innovate for Vegas Foundation NonProfit Corporation
 
-A bit of a mouthful, yes. This GitHub Organization is in place for keeping track of information related to the formation and ongoing operation of our Nevada Nonprofit Corporation.
+This GitHub Organization is in place for keeping track of information related to the formation and ongoing operation of our Nevada Nonprofit Corporation.
 
-[InnovateForVegasFdn](https://github.com/InnovateForVegasFdn)
+[https://github.com/InnovateForVegasFdn](https://github.com/InnovateForVegasFdn)
 
 ## About
 
@@ -29,7 +29,7 @@ The Innovate for Vegas Foundation is a Nevada Nonprofit Corporation and a 501(c)
 
 Our Purpose: To enable and encourage ideation, innovation, and implementation to make our communities better.
 
-We have three organizations on GitHub that are directly related to our Foundation, including this one. Are you in the right place?
+We have three organizations on GitHub which are directly related to our Foundation, including this one. Are you in the right place?
 
 ### InnovateForVegasFdn
 
