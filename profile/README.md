@@ -65,6 +65,10 @@ There is a normal website associated, which is hosted on GitHub using GitHub Pag
 
 For those new to GitHub and use of git in general, this is an organization is a place to become familiar, or to try out ideas that may impact repositories or organization configuration, so that these may be done “safely” without disrupting the work of others.
 
+### InnovateForVegas Dev Platform (Coming Soon)
+
+Self-hosted tools for Initiative Development, website and more information forthcoming…
+
 ## History
 
 As of 16 June 2022, the Code for Vegas Foundation formed as a Nevada Nonprofit Corporation, and is renaming itself to the *Innovate for Vegas Foundation*, which you may refer to casually as Innovate for Vegas and at the public website, innovateforvegas.org, but which conducts business as Innovate for Vegas Foundation.
