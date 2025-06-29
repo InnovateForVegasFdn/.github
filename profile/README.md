@@ -21,8 +21,6 @@
 
 This GitHub Organization is in place for keeping track of information related to the formation and ongoing operation of our Nevada Nonprofit Corporation.
 
-[https://github.com/InnovateForVegasFdn](https://github.com/InnovateForVegasFdn)
-
 ## About
 
 The Innovate for Vegas Foundation is a Nevada Nonprofit Corporation and a 501(c)(3) public charity formed in June 2022.
@@ -31,29 +29,41 @@ Our Purpose: To enable and encourage ideation, innovation, and implementation to
 
 We have three organizations on GitHub which are directly related to our Foundation, including this one. Are you in the right place?
 
-### InnovateForVegasFdn
+### InnovateForVegasFdn Organization
 
 You are here.
 
+[https://github.com/InnovateForVegasFdn](https://github.com/InnovateForVegasFdn)
+
+There is a normal website associated, which is hosted on GitHub using GitHub Pages.
+
+[InnovateForVegas.Foundation](https://innovateforvegas.foundation)
+
 This GitHub Organization is for Nonprofit Corporation repositories, for documents and tools that are oriented toward operating our Foundation with transparency and clarity.
 
-There is a normal website associated, [InnovateForVegas.Foundation](https://innovateforvegas.foundation) , which is hosted on GitHub using GitHub Pages.
+### InnovateForVegas Organization
 
-### InnovateForVegas
+Our Activity Organization, located at
 
-Our Activity Organization.
+[https://github.com/InnovateForVegas](https://github.com/InnovateForVegas)
+
+There is a normal website associated, which is hosted on GitHub using GitHub Pages.
+
+[InnovateForVegas.org](https://innovateforvegas.org)
 
 This is the original GitHub Organization for our Foundation, and continues to be the main focus of our Civic Volunteer Activities, holding our Initiatives and all related repositories and Team structure.
 
-There is a normal website associated, [InnovateForVegas.org](https://innovateforvegas.org), which is hosted on GitHub using GitHub Pages.
-
-### InnovateForVegasXYZ
+### InnovateForVegasXYZ Organization
 
 Our Sandbox Organization.
 
-For those new to GitHub and use of git in general, this is an organization is a place to become familiar, or to try out ideas that may impact repositories or organization configuration, so that these may be done “safely” without disrupting the work of others.
+[https://github.com/InnovateForVegasXYZ](https://github.com/InnovateForVegasXYZ)
 
-There is a normal website associated, [InnovateForVegas.xyz](https://innovateforvegas.xyz), which is hosted on GitHub using GitHub Pages.
+There is a normal website associated, which is hosted on GitHub using GitHub Pages.
+
+[InnovateForVegas.xyz](https://innovateforvegas.xyz)
+
+For those new to GitHub and use of git in general, this is an organization is a place to become familiar, or to try out ideas that may impact repositories or organization configuration, so that these may be done “safely” without disrupting the work of others.
 
 ## History
 
